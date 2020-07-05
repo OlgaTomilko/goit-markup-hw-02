@@ -183,6 +183,7 @@ body {
 
 .filter-list-button:hover,
 .filter-list-button:focus {
+  color: var(--title-light-color);
   background-color: var(--accent-color);
 }
 
