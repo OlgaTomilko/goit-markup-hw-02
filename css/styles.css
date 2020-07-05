@@ -153,6 +153,15 @@ body {
 }
 
 /* ПОДВАЛ */
+
+.footer {
+  background: #2f303a;
+}
+
+.footer .logo-first-word {
+  color: var(--title-light-color);
+}
+
 .call {
   font-weight: 700;
   line-height: 1.14;
@@ -161,14 +170,14 @@ body {
   color: var(--title-light-color);
 }
 
-/* .footer-map-link {
+.footer-map-link {
   color: var(--title-light-color);
-} */
+}
 
-/* .footer-mail-link,
+.footer-mail-link,
 .footer-tel-link {
   color: var(--text-light-color);
-} */
+}
 
 /* СТРАНИЦА ПОРТФОЛИО */
 
